@@ -114,4 +114,5 @@ Using a Debugger
 // const amplitudeBug = calcTempAmplitudeBug([4, 5, 1], [9, 4, 5]);
 // console.log(amplitudeBug);
 
+// DOM MANIPULATION
 
