@@ -22,4 +22,4 @@ const measureKelvin = function () {
 
     // CODE CHALLENGE
 
-    
+    // DOM MANIPULATION
