@@ -39,6 +39,7 @@
 // const amplitude = calcTempAmplitude(temperature);
 // console.log(amplitude);
 
+//////////////
 // PROBLEM 2
 
 // Function should now receive 2 arrays of temps
@@ -92,7 +93,8 @@
 // A) IDENTIFY THE BUG
 // console.log(measureKelvin());
 
-Using a Debugger
+///////////////////////
+// Using a Debugger
 
 // const calcTempAmplitudeBug = function (t1, t2) {
 //   const temps = t1.concat(t2);
@@ -114,5 +116,5 @@ Using a Debugger
 // const amplitudeBug = calcTempAmplitudeBug([4, 5, 1], [9, 4, 5]);
 // console.log(amplitudeBug);
 
-// DOM MANIPULATION
+
 
